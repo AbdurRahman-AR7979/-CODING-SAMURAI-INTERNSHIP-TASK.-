@@ -37,6 +37,8 @@ Observed strong negative correlation between passenger class and survival, and p
 Identified missing data in "deck" and limitations arising from median age imputation.
 
 **Conclusions**
+
+
 Survival on Titanic was significantly affected by passenger class, sex, fare, and family composition.
 
 First-class and female passengers experienced better survival outcomes.
