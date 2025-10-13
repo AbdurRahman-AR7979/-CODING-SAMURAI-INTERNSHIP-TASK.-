@@ -1,0 +1,42 @@
+Requirements
+
+
+To run the code and analysis in this repository, you will need:
+
+Python (version 3.7 or newer recommended)
+
+Jupyter Notebook or other notebook environment
+
+Python Libraries
+
+
+Install the following packages before running the notebook:
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+If you use scikit-learn for advanced analysis or modeling, include:
+
+scikit-learn
+
+Installation
+
+
+You can install the required Python packages with:
+
+bash
+
+
+pip install pandas numpy matplotlib seaborn scikit-learn
+Or, if you provide a requirements.txt file:
+
+bash
+
+
+pip install -r requirements.txt
+Let me know if you want to include other packages or get a sample requirements.txt file!
