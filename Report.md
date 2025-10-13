@@ -1,5 +1,9 @@
 **Report**
+
+
 **Introduction**
+
+
 This exploratory data analysis (EDA) examines the Titanic passenger dataset to uncover statistical insights and patterns relating to survival during the historic disaster. The analysis follows established data science guidelines for internships and is intended to communicate findings through visualizations and commentary.
 
 Data Cleaning and Preparation
