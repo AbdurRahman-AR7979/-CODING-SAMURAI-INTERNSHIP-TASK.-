@@ -58,7 +58,9 @@ The notebook includes several visualizations to support findings:
    ```bash
    git clone https://github.com/AbdurRahman-AR7979/-CODING-SAMURAI-INTERNSHIP-TASK-.git
 
-   📄 Report
+
+
+    📄 Report
 
 A detailed explanation of the analysis, methods, and results is provided in the file:
 
@@ -79,6 +81,7 @@ Deriving data-driven insights
 🙌 Acknowledgment
 
 This project was completed as part of my internship at Coding Samurai.
+
 Special thanks to the Coding Samurai team for the guidance and opportunity to apply data science concepts in real-world analysis.
 
 📸 Example Visuals (Optional)
