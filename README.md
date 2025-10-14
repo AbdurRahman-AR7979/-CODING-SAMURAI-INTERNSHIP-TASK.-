@@ -70,13 +70,13 @@ Report.md
 
 This internship project helped me strengthen my understanding of:
 
-Data cleaning and preprocessing
+-Data cleaning and preprocessing
 
-Exploratory data analysis techniques
+-Exploratory data analysis techniques
 
-Data visualization using Python libraries
+-Data visualization using Python libraries
 
-Deriving data-driven insights
+-Deriving data-driven insights
 
 🙌 Acknowledgment
 
