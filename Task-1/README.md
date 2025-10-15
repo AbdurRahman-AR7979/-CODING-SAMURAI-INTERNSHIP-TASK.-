@@ -86,10 +86,8 @@ Special thanks to the Coding Samurai team for the guidance and opportunity to ap
 
 📸 Example Visuals (Optional)
 
-You can include sample outputs here:
+You can include sample outputs in Below file named Images.
 
-![Survival by Gender](images/survival_by_gender.png)
-![Correlation Heatmap](images/correlation_heatmap.png)
 
 🧾 License
 
