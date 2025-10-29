@@ -1,5 +1,5 @@
 
-````markdown
+###````markdown
 # 🚢 Task 2: Logistic Regression on Titanic Dataset
 
 This project focuses on building a **Logistic Regression model** to predict the survival of passengers aboard the **Titanic**.  
@@ -28,7 +28,7 @@ The project demonstrates how **Logistic Regression** can be applied to a real-wo
 - **Scikit-learn**
 - **Jupyter Notebook**
 
----
+---###
 
 ## 🧩 Project Workflow
 ### **1️⃣ Data Loading**
