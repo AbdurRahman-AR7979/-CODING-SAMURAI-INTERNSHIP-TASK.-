@@ -1,9 +1,3 @@
-Perfect 👌 — here’s a **complete, professional `README.md` file** for your GitHub repository folder **Task 2 — Logistic Regression on Titanic Dataset**.
-
-It’s written in a **GitHub-optimized style** (with emoji headers, section dividers, and clear structure), so you can directly copy this into a file named `README.md` and upload it alongside your `.ipynb`.
-
----
-
 ````markdown
 # 🚢 Task 2: Logistic Regression on Titanic Dataset
 
